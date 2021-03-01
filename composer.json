@@ -1,0 +1,15 @@
+{
+    "name": "conference/zoom",
+    "description": "Zoom.us client for Conference library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Keven",
+            "email": "hello@keven.fr"
+        }
+    ],
+    "require": {
+        "psr/http-client": "^1.0",
+        "symfony/http-client": "^5.2"
+    }
+}

@@ -8,8 +8,12 @@
             "email": "hello@keven.fr"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "psr/http-client": "^1.0",
-        "symfony/http-client": "^5.2"
+        "symfony/http-client": "^5.2",
+        "firebase/php-jwt": "^5.2",
+        "conference/conference": "9999999-dev",
+        "deniztezcan/omnipay-ingenico-epayments": "^1"
     }
 }
